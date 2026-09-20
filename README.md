@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ayush196043/leetCode_DSA_with_Ayush/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ayush196043/leetCode_DSA_with_Ayush/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush196043/leetCode_DSA_with_Ayush/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ayush196043/leetCode_DSA_with_Ayush/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
